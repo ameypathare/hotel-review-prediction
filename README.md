@@ -48,7 +48,7 @@ ${Visualization}$
 
 ${Modelling}$   
 
-### **Custom CNN Model**  
+### **Hybrid Framewor**  
 - Feature Engineering
 - Model Architecture: DistilBERT Base: DistilBertForSequenceClassification(num_labels=3)
 
